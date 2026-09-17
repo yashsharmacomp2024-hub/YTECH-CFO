@@ -1,0 +1,6 @@
+{
+  "name": "YTech CFO",
+  "description": "The Financial Intelligence Layer for Your Business — AI CFO, cash flow forecasting, GST intelligence, and executive financial reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
